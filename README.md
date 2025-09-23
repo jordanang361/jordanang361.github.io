@@ -8,6 +8,7 @@
 <div contenteditable="true" style="color: blue;">
   This text can be edited if you click on it and type.
 </div>
+</head>
 <body>
 <h3> List of Achievements </h3>
 </body>
